@@ -1,4 +1,4 @@
-x# Naive Bayes Classifier for Iris Dataset
+# Naive Bayes Classifier for Iris Dataset
 
 ## Overview
 This project implements two Naive Bayes classifiers:
