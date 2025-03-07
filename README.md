@@ -14,21 +14,6 @@ The classifiers are tested on the Iris dataset, and their accuracy is evaluated 
 - **Accuracy Comparison**: Compares both classifiers over varying training set sizes.
 - **Visualization**: Plots accuracy vs. training set size.
 
-## Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/naive-bayes-iris.git
-   cd naive-bayes-iris
-   ```
-2. Install dependencies:
-   ```sh
-   pip install numpy matplotlib scikit-learn
-   ```
-3. Run the script:
-   ```sh
-   python naive_bayes.py
-   ```
-
 ## Usage
 ### Define Classifiers
 - **NaiveBayes**: Uses discrete bins for feature representation.
